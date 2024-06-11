@@ -7,11 +7,11 @@
   <h1 align="center">Hi there!</h1>
 </div>
 
-[![LinkedIn](https://www.linkedin.com/in/oscarjpicazo/)]
+[![Linkedin](https://www.linkedin.com/in/oscarjpicazo/)]
 
 ## About me
 
-Hi, this is Oscar, a young Spanish entrepreneur who loves ​​creating solutions to real problems in society. :)
+This is Oscar, a young Spanish entrepreneur who loves ​​creating solutions to real problems in society. :)
 I love learning new skills in my free time. Currently going deeper into the rabbit hole of cybersecurity and data vulnerability. 
 
 
