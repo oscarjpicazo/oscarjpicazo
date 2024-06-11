@@ -7,12 +7,13 @@
   <h1 align="center">Hi there!</h1>
 </div>
 
-[![Linkedin](https://www.linkedin.com/in/oscarjpicazo/)]
+[![Linkedin]([https://i.sstatic.net/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/oscarjpicazo/))
 
-## About me
-
-This is Oscar, a young Spanish entrepreneur who loves ​​creating solutions to real problems in society. :)
+<div>
+  <p align="center">This is Oscar, a young Spanish entrepreneur who loves ​​creating solutions to real problems in society. :)
 I love learning new skills in my free time. Currently going deeper into the rabbit hole of cybersecurity and data vulnerability. 
+</p>  
+</div>
 
 
 ## Previous projects & Background
