@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscarjpicazo
-- 👨🏽‍💻 I create Web3 infrastructure for technology startups and companies through Minteandome
-- 🌱 I'm currently learning how to program in C++, JavaScript, and Python, and I find myself falling down the bitcoin rabbit hole (in depth, Lightning)
+- 💻 I have previously created a Web3 infrastructure for tech startups (Minteandome), and a software consulting company (Feynman Software)
+- 👨🏽‍💻 Currently scaling Thinki App, a mobile learning application based on microlearnings
 - 📫 To reach me, send me an email to oscarjpicazo@gmail.com
 
 
