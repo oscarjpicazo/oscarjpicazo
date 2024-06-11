@@ -3,4 +3,8 @@
 - 👨🏽‍💻 Currently scaling Thinki App, a mobile learning application based on microlearnings
 - 📫 To reach me, send me an email to oscarjpicazo@gmail.com
 
+## About me
+
+Hi, this is Oscar, a young Spanish entrepreneur who loves the idea of ​​creating solutions to real problems in society. :)
+
 
