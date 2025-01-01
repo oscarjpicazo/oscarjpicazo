@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @oscarjpicazo
+- 👋 Hi, this is @oscarjpicazo
 - 💻 I have previously created a Web3 infrastructure for tech startups (Minteandome), and a software consulting company (Feynman Software)
-- 👨🏽‍💻 Currently scaling Thinki App, a B2C application of bite-sized learnings
-- 📫 To reach me, send me an email to oscarjpicazo@gmail.com
-
-
-
-
+- 👨🏽‍💻 Currently scaling Thinki, an ecosystem of OSINT tools to foster a safer and more private Internet
