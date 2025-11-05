@@ -1,3 +1,2 @@
 - 👋 Hi, this is @oscarjpicazo
-- 💻 I have previously created a Web3 infrastructure for tech startups (Minteandome), and a software consulting company (Feynman Software)
-- 👨🏽‍💻 Currently scaling Thinki, an ecosystem of OSINT tools to foster a safer and more private Internet
+- 👨🏽‍💻 Currently scaling Feynman, a software consultancy firm
